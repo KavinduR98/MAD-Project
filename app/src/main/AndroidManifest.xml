@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="unity.example.shoppingpro">
+    package="unity.example.shoppingpro" >
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ShoppingPro">
+        android:theme="@style/Theme.ShoppingPro" >
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.ShoppingPro.NoActionBar" />
         <activity
             android:name=".SellerLoginActivity"
             android:exported="true" />
@@ -26,7 +31,7 @@
             android:exported="true" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
