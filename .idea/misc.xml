@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/drawable/edit_text_bg.xml" value="0.2703125" />
+        <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/drawable/ic_baseline_account_circle.xml" value="0.2703125" />
+        <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2703125" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/drawable/main_cart.xml" value="0.18796296296296297" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/activity_seller_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/activity_seller_register.xml" value="0.25416666666666665" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/activity_settings.xml" value="0.25416666666666665" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/app_bar_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Android/Projects/ShoppingPro/app/src/main/res/layout/content_home.xml" value="0.25416666666666665" />

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShoppingPro">
         <activity
+            android:name=".SellerLoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SellerRegisterActivity"
+            android:exported="true" />
+        <activity
             android:name=".SettingsActivity"
             android:exported="true" />
         <activity

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/login"
     tools:context=".MainActivity">
 
 
@@ -46,6 +47,7 @@
         app:layout_constraintTop_toBottomOf="@+id/main_txt_view01" />
 
     <Button
+        android:background="@drawable/edit_text_bg"
         android:id="@+id/main_login_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -66,6 +68,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
+        android:background="@drawable/edit_text_bg"
         android:id="@+id/main_join_now_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
